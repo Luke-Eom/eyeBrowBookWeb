@@ -15,4 +15,9 @@ public class Categories {
 
     @Column(length = 20, nullable = false)
     private String name;
+
+    @Column(length = 100)
+    private String imgPath;
+
+
 }

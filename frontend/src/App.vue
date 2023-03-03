@@ -1,22 +1,37 @@
 <template>
   <Header/>
-
-  <Home/>
-
+  <main style='background-color: black'>
+  <RouterView/>
+  </main>
   <Footer/>
 </template>
 
 <script>
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import Home from "@/pages/Home";
+import store from "@/scripts/store";
+import axios from "axios";
+import {watch} from "vue";
+import {useRoute} from "vue-router/dist/vue-router";
+
 export default {
   name: 'App',
   components: {
     Header,
-    Home,
     Footer
-  }
+  },
+  setup() {
+      const check = () => {
+        axios.get("/account/check").then(({data}) => {
+          console.log(data);
+          store.commit("setAccount", data || 0);
+        })
+      };
+      const route = useRoute();
+      watch(route, () => {
+        check();
+      })
+    }
 }
 </script>
 
