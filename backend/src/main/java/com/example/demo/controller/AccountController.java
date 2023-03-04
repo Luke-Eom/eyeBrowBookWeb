@@ -27,6 +27,7 @@ public class AccountController {
     JwtService jwtService;
     @PostMapping("/login")
     public ResponseEntity login(@RequestBody Map<String, String> params, HttpServletResponse res) {
+        // * member service로 바꾸고 카톡 연동 적용하기
         Member member = mRepo.findByEmailAndPassword(params.get("email"), params.get("password"));
         if (member != null) {
             int id = member.getId();
