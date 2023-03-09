@@ -1,12 +1,16 @@
 package com.example.demo.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import lombok.Getter;
+
+import javax.persistence.*;
 
 @Entity
+@Getter
+@Table(name = "reviews")
 public class Review {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     private String title;
@@ -15,6 +19,7 @@ public class Review {
 
     private String imgPath;
 
+    @ManyToOne
     private Member member;
 
 }

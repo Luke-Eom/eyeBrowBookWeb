@@ -13,12 +13,15 @@ import store from "@/scripts/store";
 import axios from "axios";
 import {watch} from "vue";
 import {useRoute} from "vue-router/dist/vue-router";
+import { Carousel, Slide } from 'vue-carousel';
 
 export default {
   name: 'App',
   components: {
     Header,
-    Footer
+    Footer,
+    Carousel,
+    Slide
   },
   setup() {
       const check = () => {
@@ -48,6 +51,7 @@ export default {
         .bd-placeholder-img-lg {
           font-size: 3.5rem;
         }
+
       }
 
       .b-example-divider {

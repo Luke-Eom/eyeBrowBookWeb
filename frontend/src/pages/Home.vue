@@ -1,6 +1,19 @@
 <template>
  <div class="Home">
 
+    <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
+      <div> 로고 </div>
+      <div> 눈썹 종류 </div>
+      <div> 주의 사항 </div>
+      <div> 연락처 </div>
+    </carousel>
+    <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
+      <img src="https://placeimg.com/200/200/any?1">
+      <img src="https://placeimg.com/200/200/any?2">
+      <img src="https://placeimg.com/200/200/any?3">
+      <img src="https://placeimg.com/200/200/any?4">
+    </carousel>
+
       <section class="py-1 text-center container" >
         <div class="row py-lg-3">
           <div class="col-lg-6 col-md-8 mx-auto">

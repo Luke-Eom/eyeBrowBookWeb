@@ -17,7 +17,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletResponse;
 import java.util.Map;
 
-@RestController("account")
+@RestController
+@RequestMapping("account")
 public class AccountController {
 
     @Autowired
