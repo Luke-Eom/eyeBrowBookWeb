@@ -13,15 +13,12 @@ import store from "@/scripts/store";
 import axios from "axios";
 import {watch} from "vue";
 import {useRoute} from "vue-router/dist/vue-router";
-import { Carousel, Slide } from 'vue-carousel';
 
 export default {
   name: 'App',
   components: {
     Header,
     Footer,
-    Carousel,
-    Slide
   },
   setup() {
       const check = () => {

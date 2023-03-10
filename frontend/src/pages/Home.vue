@@ -1,20 +1,21 @@
 <template>
  <div class="Home">
 
-    <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
-      <div> 로고 </div>
-      <div> 눈썹 종류 </div>
-      <div> 주의 사항 </div>
-      <div> 연락처 </div>
-    </carousel>
-    <carousel :autoplay="true" :nav="false" :dots="false" class="marginTop50">
-      <img src="https://placeimg.com/200/200/any?1">
-      <img src="https://placeimg.com/200/200/any?2">
-      <img src="https://placeimg.com/200/200/any?3">
-      <img src="https://placeimg.com/200/200/any?4">
-    </carousel>
+
 
       <section class="py-1 text-center container" >
+        <template>
+          <carousel :items-to-show="1.5">
+            <slide v-for="slide in 10" :key="slide">
+              {{ slide }}
+            </slide>
+
+            <template #addons>
+              <navigation />
+              <pagination />
+            </template>
+          </carousel>
+        </template>
         <div class="row py-lg-3">
           <div class="col-lg-6 col-md-8 mx-auto">
             <span class="img" :style="{backgroundImage: `url(img/logo.jpg)`}" />
@@ -38,10 +39,19 @@
 import Card from "@/components/Card";
 import axios from "axios";
 import { reactive } from "vue";
+import 'vue3-carousel/dist/carousel.css'
+import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
+
 
 export default {
   name: 'Home',
-  components: {Card},
+  components: {
+    Card,
+    Carousel,
+    Slide,
+    Pagination,
+    Navigation,
+  },
   setup() {
     const state = reactive({
         items: []
