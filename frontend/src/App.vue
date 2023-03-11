@@ -1,8 +1,6 @@
 <template>
   <Header/>
-  <main style='background-color: black'>
   <RouterView/>
-  </main>
   <Footer/>
 </template>
 
@@ -18,7 +16,7 @@ export default {
   name: 'App',
   components: {
     Header,
-    Footer,
+    Footer
   },
   setup() {
       const check = () => {

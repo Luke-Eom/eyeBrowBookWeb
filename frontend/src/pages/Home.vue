@@ -4,18 +4,9 @@
 
 
       <section class="py-1 text-center container" >
-        <template>
-          <carousel :items-to-show="1.5">
-            <slide v-for="slide in 10" :key="slide">
-              {{ slide }}
-            </slide>
+        <Carousel/>
 
-            <template #addons>
-              <navigation />
-              <pagination />
-            </template>
-          </carousel>
-        </template>
+
         <div class="row py-lg-3">
           <div class="col-lg-6 col-md-8 mx-auto">
             <span class="img" :style="{backgroundImage: `url(img/logo.jpg)`}" />
@@ -37,20 +28,16 @@
 
 <script>
 import Card from "@/components/Card";
+import Carousel from "@/components/Carousel";
 import axios from "axios";
 import { reactive } from "vue";
-import 'vue3-carousel/dist/carousel.css'
-import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel'
 
 
 export default {
   name: 'Home',
   components: {
     Card,
-    Carousel,
-    Slide,
-    Pagination,
-    Navigation,
+    Carousel
   },
   setup() {
     const state = reactive({
