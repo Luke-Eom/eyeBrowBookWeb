@@ -1,27 +1,27 @@
 <template>
   <Carousel :autoplay="2000" :wrap-around="true">
-    <Slide v-for="slide in 10" :key="slide">
-      <div class="carousel__item">{{ slide }}</div>
+    <Slide v-for="slide in slides" :key="slide.id">
+      <div class="carousel__item">
+        <h3>{{ slide.title }}</h3>
+        <p>{{ slide.content }}</p>
+      </div>
     </Slide>
 
     <template #addons>
+      <Navigation />
       <Pagination />
     </template>
   </Carousel>
 </template>
 
-<script>
-import { defineComponent } from 'vue'
-import { Carousel, Pagination, Slide } from 'vue3-carousel'
+<script setup>
+import 'vue3-carousel/dist/carousel.css'
+import { Carousel, Slide, Navigation } from 'vue3-carousel'
 
-import 'vue3-carousel/carousel.css'
+  const slides = [
+    { id: '1', title: 'Vue 3 Introduction', content: 'VueJS is a library' },
+    { id: '2', title: 'Vue 3 Components', content: 'Know the components' },
+    { id: '3', title: 'Vue 3 Conditional', content: 'Rendering Conditionally' }
+  ]
 
-export default defineComponent({
-  name: 'Autoplay',
-  components: {
-    Carousel,
-    Slide,
-    Pagination,
-  },
-})
 </script>
