@@ -8,7 +8,7 @@
                    <span class="discount badge bg-danger">할인중</span>
                    <div class="btn-group">
                      <button type="button" class="btn btn-sm btn-outline-secondary">예약</button>
-                     <button type="button" class="btn btn-sm btn-outline-secondary">시간표 확인</button>
+                     <button type="button" class="btn btn-sm btn-outline-secondary" @click="pageLink()">시간표 확인</button>
                    </div>
                    <small class="text-muted">리뷰 보기</small>
                   </div>
@@ -23,8 +23,15 @@
     item: Object
     }
   }
-</script>
 
+</script>
+<script setup>
+import { useRouter } from "vue-router";
+  const router = useRouter();
+  const pageLink = () => {
+    router.push({path: 'schedule'})
+  }
+</script>
 <style scoped>
 .card .img {
     display: inline-block;
