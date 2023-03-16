@@ -37,6 +37,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Bean
     public PasswordEncoder passwordEncoder() {
+
         return new BCryptPasswordEncoder();
     }
 
@@ -53,8 +54,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
                 .authorizeRequests()
                 .antMatchers(HttpMethod.OPTIONS).permitAll()
-                .antMatchers("/product/**", "/member/authenticate", "/auth/**", "/order/**").permitAll()
-        exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)
+                .antMatchers("/account/**", "/member/authenticate", "/auth/**", "/api/**").permitAll()
+        .exceptionHandling().authenticationEntryPoint(jwtAuthenticationEntryPoint)
                 .and()
                 .sessionManagement()
                 .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
