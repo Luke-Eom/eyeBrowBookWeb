@@ -20,6 +20,6 @@ public class Review {
     private String imgPath;
 
     @ManyToOne
-    private Member member;
+    private User user;
 
 }

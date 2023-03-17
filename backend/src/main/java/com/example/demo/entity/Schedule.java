@@ -19,7 +19,7 @@ public class Schedule {
     private long time;
 
     @ManyToOne
-    private Member member;
+    private User user;
 
     // history dto에서 만들기
 }

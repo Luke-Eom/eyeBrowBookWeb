@@ -1,6 +1,6 @@
 package com.example.demo.service;
 
-import com.example.demo.repository.MemberRepository;
+import com.example.demo.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,7 +25,7 @@ public class UserOAuth2Service extends DefaultOAuth2UserService {
     private final HttpSession httpSession;
 
     @Autowired
-    MemberRepository memberRepo;
+    UserRepository memberRepo;
 
     @Override
     public OAuth2User loadUser(OAuth2UserRequest userRequest) throws OAuth2AuthenticationException {
