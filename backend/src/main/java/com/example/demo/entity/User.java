@@ -1,12 +1,16 @@
 package com.example.demo.entity;
 
 import com.example.demo.enums.Roles;
-import lombok.Getter;
+import lombok.*;
 
 import javax.persistence.*;
 
+@NoArgsConstructor
+@AllArgsConstructor
 @Getter
+@Setter
 @Entity
+@Builder
 @Table(name = "members")
 public class User {
 
@@ -26,5 +30,8 @@ public class User {
 
     @Enumerated(EnumType.STRING)
     private Roles role;
+
+    //kakao, google
+    private String oauth;
 
 }
