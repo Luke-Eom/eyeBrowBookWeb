@@ -4,4 +4,5 @@ import com.example.demo.entity.Schedule;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ScheduleRepository extends JpaRepository<Schedule, Integer> {
+    Schedule findByUsername(String username);
 }
