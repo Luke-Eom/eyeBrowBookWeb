@@ -21,5 +21,9 @@ w
 G.idea/sonarlint/issuestore/5/6/56915cc1aa27c64d2dc189eab9d4c61670b2dfcf,8\c\8ce448e82ff7f74f335c531503b6907c7e198ef2
 w
 G.idea/sonarlint/issuestore/2/1/21d4b1ec4e3be89735ba8533a58eee07a372667a,5\3\53ab777831d745d1445951e96972f8c78311b5e6
-w
-G.idea/sonarlint/issuestore/f/4/f4cbe097ca2b043fa029c4141da3e50f6699bacf,b\0\b0518d014cda6143ceae908c220544a8e528d58b
+u
+Ebackend/src/main/java/com/example/demo/controller/UserController.java,3\7\374bb1800cd098d98a8eedd6e7d4affb2d0acf25
+u
+Ebackend/src/main/java/com/example/demo/repository/UserRepository.java,1\b\1b4b32f3f12e5afcd297eb02aa208eed2bebd0b0
+t
+Dbackend/src/main/java/com/example/demo/config/WebSecurityConfig.java,6\f\6fb67163a3b711f718b79ae09aa126243965a535
