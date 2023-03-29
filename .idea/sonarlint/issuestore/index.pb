@@ -1,10 +1,6 @@
 
-D
-backend/build.gradle,2\1\21d4b1ec4e3be89735ba8533a58eee07a372667a
 i
 9backend/src/main/java/com/example/demo/entity/Review.java,9\b\9b3dc090353a7641df4e7c7ba8d39cde58943192
-u
-Ebackend/src/main/java/com/example/demo/service/UserOAuth2Service.java,c\9\c9cb791b10a30334822f83ea6077226b4449a81a
 K
 .idea/modules/demo.main.iml,5\6\56915cc1aa27c64d2dc189eab9d4c61670b2dfcf
 w
@@ -27,3 +23,7 @@ u
 Ebackend/src/main/java/com/example/demo/repository/UserRepository.java,1\b\1b4b32f3f12e5afcd297eb02aa208eed2bebd0b0
 t
 Dbackend/src/main/java/com/example/demo/config/WebSecurityConfig.java,6\f\6fb67163a3b711f718b79ae09aa126243965a535
+o
+?backend/src/main/java/com/example/demo/entity/KakaoProfile.java,1\1\112b81f515227c18c228b6bb52389231947e24f0
+x
+Hbackend/src/main/java/com/example/demo/controller/AccountController.java,0\8\08656bd31b164f7a1410c3ac6e286bdac9064d0d
