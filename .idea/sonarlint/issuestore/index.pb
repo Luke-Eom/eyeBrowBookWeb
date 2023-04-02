@@ -9,3 +9,25 @@ k
 ;backend/src/main/java/com/example/demo/DemoApplication.java,d\8\d8a8ba601a6763cf0378d39794ef40e9305a551d
 L
 frontend/src/pages/Login.vue,d\f\dfb18af7828183f814bc7c2a907b12881f6471fe
+w
+G.idea/sonarlint/issuestore/d/f/dfb18af7828183f814bc7c2a907b12881f6471fe,2\1\21a5a7a0ae310eac754015061e653661fee7afa3
+w
+G.idea/sonarlint/issuestore/d/8/d8a8ba601a6763cf0378d39794ef40e9305a551d,b\0\b0a441c1e0241c62f61d845eaf95e9f18b9efb5b
+q
+Abackend/src/main/java/com/example/demo/oauth/token/AuthToken.java,e\6\e65277ee7cf5acd2621af41f1d12a1114e8eae8d
+y
+Ibackend/src/main/java/com/example/demo/oauth/token/AuthTokenProvider.java,a\4\a49785e6dc2ac5fad121b01af1c9eca83223fca7
+l
+<backend/src/main/java/com/example/demo/utils/CookieUtil.java,3\b\3b41cf64f919d7f925c7ca04cff4d299ce81d388
+l
+<backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab
+p
+@backend/src/main/java/com/example/demo/api/user/dto/JoinDto.java,d\2\d26e5e206a2ac76ae1ec9edf02420ce3dee686cb
+q
+Abackend/src/main/java/com/example/demo/api/user/dto/LoginDto.java,d\c\dc4c3cc102085086dc4de59b99f813ff24b8704f
+u
+Ebackend/src/main/java/com/example/demo/oauth/entity/ProviderType.java,c\6\c60193aa979a7d0668d110c2d345567edacf0799
+q
+Abackend/src/main/java/com/example/demo/oauth/entity/RoleType.java,6\c\6cba50581c03ae5e35ceb40deaee30f9a6b9f21a
+p
+@backend/src/main/java/com/example/demo/api/user/dto/UserDto.java,d\d\dd279dad33364c2f3ccbfeb3e8af182fbe2cc550
