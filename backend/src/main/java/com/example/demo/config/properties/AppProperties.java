@@ -22,8 +22,8 @@ public class AppProperties {
     @NoArgsConstructor
     public static class Auth {
         private String tokenSecret;
-        private long tokenExpiracy;
-        private long refreshTokenExpiracy;
+        private long tokenExpiry;
+        private long refreshTokenExpiry;
 
     }
 
