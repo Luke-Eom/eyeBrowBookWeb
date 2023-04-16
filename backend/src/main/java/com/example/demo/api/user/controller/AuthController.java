@@ -55,9 +55,9 @@ public class AuthController {
         AuthToken accessToken = tokenProvider.createAuthToken(
                 userEmail,
                 ((MyUserDetails)authentication.getPrincipal()).getMyUser().getRoleType().getCode(),
-                new Date(now.getTime() + appProperties.getAuth().getTokenExpiracy()));
+                new Date(now.getTime() + appProperties.getAuth().getTokenExpiry()));
 
-        long refreshTokenExpiry = appProperties.getAuth().getRefreshTokenExpiracy();
+        long refreshTokenExpiry = appProperties.getAuth().getRefreshTokenExpiry();
         AuthToken refreshToken = tokenProvider.createAuthToken(
                 appProperties.getAuth().getTokenSecret(),
                 new Date(now.getTime() + refreshTokenExpiry)
