@@ -16,7 +16,7 @@ public class UserController {
 
     private final UserService userService;
 
-    @GetMapping("/{username}")
+    @GetMapping("/my")
     public ApiResponse<UserDto> getUser(MyUser myUser) {
 
         UserDto user = userService.getUser(myUser.getEmail());
