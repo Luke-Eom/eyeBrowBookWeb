@@ -16,6 +16,7 @@ public class UserController {
 
     private final UserService userService;
 
+    // Cookie에서 username 받아와서 user정보 가져오는거로 change
     @GetMapping("/my")
     public ApiResponse<UserDto> getUser(MyUser myUser) {
 

@@ -136,8 +136,6 @@ G.idea/sonarlint/issuestore/0/f/0f53e7145742416b667fa0d49fae5d818395055c,4\0\40
 w
 G.idea/sonarlint/issuestore/4/e/4e325583e111b93c23a505fae2d71bf9f20a645d,0\e\0e304d0d9be0af0690ea5406be3c47312585307b
 w
-G.idea/sonarlint/issuestore/b/b/bb84fa4c46a45b5a9be4331060f12999f736cdf1,c\7\c7a7d09a61392b64eaf2ff3e0be24fc61c59af2b
-w
 G.idea/sonarlint/issuestore/4/1/416a7752fc6ce197a4009e3517e830d2de389143,9\3\93f8ba0be87528ec912d1a6c3169381a21633994
 w
 G.idea/sonarlint/issuestore/6/a/6af665d540181e8f47fe91e03a0fafec13938c75,c\7\c743c624119e0c889e5fa8ddbbb61c3fefcfdb74
@@ -326,8 +324,6 @@ G.idea/sonarlint/issuestore/e/4/e4dac79ffc318095c46dc77a35ed9c417962add4,e\3\e3
 w
 G.idea/sonarlint/issuestore/2/1/2121e88cda1a03702aac81ac182f2d5412f0dfc3,9\6\9609a8b62ef41437cafccd9a4ea560da67e668b4
 w
-G.idea/sonarlint/issuestore/d/2/d2531cb50d6631ff9b25c66de0f06a3f6a4838c8,5\5\5551fab508b408bb65c646bcb816ea9632b25b8d
-w
 G.idea/sonarlint/issuestore/e/a/ea9903f57cc483a950a6a759e909f0b054ca20b2,c\4\c479ba541ebbbb5c20962382ddc6aae56d8ceaa8
 w
 G.idea/sonarlint/issuestore/8/f/8f7ab5e15c9d9813ef57af0b7539d835362416a0,b\3\b3a156166e9cf57c0b3b82d516e0cbf0b2c02fab
@@ -483,8 +479,6 @@ w
 G.idea/sonarlint/issuestore/a/b/ab5813e625ebc871ebb1b1cc97c6eb2a84e06e3b,1\6\16eef1bdac516eef28730b8e5fbcccbbdbfffe9f
 w
 G.idea/sonarlint/issuestore/b/8/b8bcbb197fb38d4653a9962da60429cbdc8038f4,3\f\3f783a7a6b9f377f379bbc83bf5b0184e728fddd
-P
- frontend/src/components/Card.vue,f\5\f5792de3f3378a1ae114dc9d4cab368a13960193
 t
 Dbackend/src/main/java/com/example/demo/common/ApiResponseHeader.java,6\d\6dba5fc61eaac194780ca113337873385db2caeb
 |
@@ -552,24 +546,6 @@ G.idea/sonarlint/issuestore/4/0/4096871edc65d3d61259eb1b56018d7422a9f0f4,b\a\ba
 w
 G.idea/sonarlint/issuestore/2/0/202a24a9ed33de2a409ddf02879dc8f7ea3aa20e,9\f\9f182b39f118fe31e525ad837eb0563322dc36e5
 w
-G.idea/sonarlint/issuestore/f/a/fa422152baebc0e217da08d473df165174f172b6,6\e\6e8dff112ee8c5fb9c74e2ef3faa035cd9f958a6
-~
-Nbackend/src/main/java/com/example/demo/api/user/controller/UserController.java,6\3\6383775e8d9c58c1366fd40391bff00bfba82325
-n
->backend/src/main/java/com/example/demo/common/ApiResponse.java,7\c\7c177f2f9cd86fa25934b087c670c4b42d07c49f
-l
-<backend/src/main/java/com/example/demo/utils/CookieUtil.java,3\b\3b41cf64f919d7f925c7ca04cff4d299ce81d388
-l
-<backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab
-€
-Pbackend/src/main/java/com/example/demo/oauth/service/MyUserArgumentResolver.java,d\2\d2531cb50d6631ff9b25c66de0f06a3f6a4838c8
-
-Qbackend/src/main/java/com/example/demo/oauth/service/CustomOAuth2UserService.java,b\b\bb84fa4c46a45b5a9be4331060f12999f736cdf1
-p
-@backend/src/main/java/com/example/demo/api/user/dto/UserDto.java,d\d\dd279dad33364c2f3ccbfeb3e8af182fbe2cc550
-r
-Bbackend/src/main/java/com/example/demo/api/user/entity/MyUser.java,8\d\8d091c93b45539207745db3d580002c49f39e528
-w
 G.idea/sonarlint/issuestore/c/9/c977b052094f93101eca2b0696ec2fd10766ec9e,f\4\f4b52fe02395ac77cd86c7a619ce1223ee8116b6
 w
 G.idea/sonarlint/issuestore/3/7/37a1566886554676193e44dc78b3c4dde4cb9bd7,7\8\78f2dcd40137c30259e13a3c1b366203350ede96
@@ -587,8 +563,6 @@ w
 G.idea/sonarlint/issuestore/5/d/5d56e8235390414ed052361c4f98b41454c0aa3c,5\d\5d3a412c5ec7f99179311a73d768baf4d9b8f161
 w
 G.idea/sonarlint/issuestore/c/1/c1dedd06afae426279e37eba79cb081cc05be6c0,f\1\f1ac4dab1f80b6c55343574cf0d1547b635c38f9
-w
-G.idea/sonarlint/issuestore/6/e/6e8dff112ee8c5fb9c74e2ef3faa035cd9f958a6,c\b\cb4d7b39e35455a56bce3b31d7401561483ca508
 w
 G.idea/sonarlint/issuestore/6/3/6383775e8d9c58c1366fd40391bff00bfba82325,a\6\a630ff77b7cb5159412bf9885220d3083f486057
 w
@@ -635,7 +609,13 @@ w
 G.idea/sonarlint/issuestore/1/4/141cd83555c92e877664c6d4337bba5ffa3b209f,1\b\1b57709029f36cdd720170358c5bf43d42649855
 w
 G.idea/sonarlint/issuestore/a/d/add066b63aab8b0a7309991a9483e56271b6c75b,a\b\ab5107ed88c7ed1729c4e83d04b5323cbd32906e
-x
-Hbackend/src/main/java/com/example/demo/api/schedule/entity/Schedule.java,3\3\332175c8310b0dcbbed7f0c6b9b60e1dab969ec0
-x
-Hbackend/src/main/java/com/example/demo/api/schedule/dto/ScheduleDto.java,3\8\38769c9076882120bb4284d3ee72329ed6304aa9
+r
+Bbackend/src/main/java/com/example/demo/api/user/entity/MyUser.java,8\d\8d091c93b45539207745db3d580002c49f39e528
+p
+@backend/src/main/java/com/example/demo/api/user/dto/UserDto.java,d\d\dd279dad33364c2f3ccbfeb3e8af182fbe2cc550
+D
+frontend/src/App.vue,b\3\b395f139c6c3b350eecc10789c2fb0946ccb4abb
+D
+frontend/src/main.js,d\1\d1299ed3361f95740f5851dbc9577d6b7158ec49
+P
+ frontend/src/components/Card.vue,f\5\f5792de3f3378a1ae114dc9d4cab368a13960193
