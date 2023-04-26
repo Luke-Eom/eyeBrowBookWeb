@@ -11,6 +11,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class ScheduleDto {
     private String username;
+
+    // 연도 - 날짜 형식 확인 및 히스토리 관리 확인
     private String time;
     private String category;
     private String memo;

@@ -91,8 +91,6 @@ G.idea/sonarlint/issuestore/c/7/c743c624119e0c889e5fa8ddbbb61c3fefcfdb74,f\e\fe
 Xbackend/src/main/java/com/example/demo/oauth/exception/RestAuthenticationEntryPoint.java,0\b\0bcfecf0c5c3d049342a641012071be22461aa0f
 Š
 Zbackend/src/main/java/com/example/demo/oauth/exception/OAuthProviderMismatchException.java,f\e\fe404b89711069d2854bd22a9f58047334f30751
-~
-Nbackend/src/main/java/com/example/demo/api/user/repository/UserRepository.java,6\a\6af665d540181e8f47fe91e03a0fafec13938c75
 ƒ
 Sbackend/src/main/java/com/example/demo/oauth/userInfo/impl/NaverOAuth2UserInfo.java,f\1\f167e2b85cd41c47278d879835583a0d0127e3df
 w
@@ -167,8 +165,6 @@ w
 G.idea/sonarlint/issuestore/6/9/6911a9e1ade3175d873de7f009aae9981a4fb7dc,d\b\db00517fb11445971685f42cbe9cd39d8cfb4af0
 w
 G.idea/sonarlint/issuestore/d/d/dda4f66492633a88b989cf1021c2149d42e5afdb,f\2\f29e63bf7bc93a4a6500551c30b544d7d3017ae0
-w
-G.idea/sonarlint/issuestore/c/7/c7a7d09a61392b64eaf2ff3e0be24fc61c59af2b,7\d\7de3ccaf48dfde156b337de24016752aea5ea504
 |
 Lbackend/src/main/java/com/example/demo/api/user/entity/UserRefreshToken.java,7\b\7b961f5384b9e64566dd583ab6193a89c1cfce49
 w
@@ -177,8 +173,6 @@ w
 G.idea/sonarlint/issuestore/7/9/7994f5a7dea94cfa6379947d3c3b6e7bd1394ebe,6\e\6ec2e0ca009a0929b9fd0eda829fae22911c8b53
 w
 G.idea/sonarlint/issuestore/a/5/a5ee361a683514e1d7baeaf323f3fbaa18f59f11,d\0\d0a3fa9650c5d8cfab6a6469f3b175cadc0a1ef6
-w
-G.idea/sonarlint/issuestore/7/d/7de3ccaf48dfde156b337de24016752aea5ea504,9\a\9a80cc9610caf14481c96ccd816905077bcd4dcc
 w
 G.idea/sonarlint/issuestore/5/9/592c816b5c53bd96de228361594fc02089f85c69,6\e\6e5107bb48cac25de99391d3cdfad97f4a8f0875
 w
@@ -284,15 +278,11 @@ G.idea/sonarlint/issuestore/7/3/732a1e1c572a4f6f7bd1411058ed1826be411a06,2\1\21
 w
 G.idea/sonarlint/issuestore/2/3/23fce18ba00d8fb7e33c51a4eb192fc95d1b20b3,7\e\7ecb08bbe03c18f1e8820494498c2855304b8872
 w
-G.idea/sonarlint/issuestore/a/6/a630ff77b7cb5159412bf9885220d3083f486057,e\a\ea9903f57cc483a950a6a759e909f0b054ca20b2
-w
 G.idea/sonarlint/issuestore/c/1/c1a0d9da747f6b3b20e1c32cbf22bcb37411c477,8\7\87f519fad319bda2bf63ecfde54fbf11e564349f
 w
 G.idea/sonarlint/issuestore/1/d/1d1783201e3595ca53c07aa87129f0833050e6ad,5\b\5b8a8c7dd5eeec1fcba6cab0c66f9ee38f265c34
 w
 G.idea/sonarlint/issuestore/5/f/5fa0b0a2cf42d11b959e74b0861aa017fc70f2ac,c\9\c923fbbce599e27aeb8757608ea22828af1d0c1b
-x
-Hbackend/src/main/java/com/example/demo/api/user/service/UserService.java,f\e\fea4e48c03072f5aa401d211dc168356def59914
 ‚
 Rbackend/src/main/java/com/example/demo/oauth/handler/TokenAccessDeniedHandler.java,6\d\6d38a0c83746321f7af30167d6035a0ecd8b7753
 w
@@ -364,8 +354,6 @@ G.idea/sonarlint/issuestore/e/7/e731e2baa11e1031d5db0e654c66712d366f35db,d\3\d3
 w
 G.idea/sonarlint/issuestore/8/1/814d473f1a42efc7a8739e3de87ac035bdb23bd5,1\d\1d0acfa8a5c48318ab17d20559e4219f17c2b6aa
 w
-G.idea/sonarlint/issuestore/5/5/5551fab508b408bb65c646bcb816ea9632b25b8d,8\f\8faf550f8affa138419fbab7eaf9b86af96fc644
-w
 G.idea/sonarlint/issuestore/6/d/6d38a0c83746321f7af30167d6035a0ecd8b7753,2\1\219578bcc32f212ccfac51e4afde8a821fd02e25
 w
 G.idea/sonarlint/issuestore/c/8/c81ddc1010a8d49137fc08e934892f4e01573fbb,9\7\9761769c14d01bfab5d01798b81b1b6726a2cd99
@@ -377,8 +365,6 @@ w
 G.idea/sonarlint/issuestore/c/6/c63f33347e9dad24bf37f027aee35e7be149608e,9\4\9410304266fa845b27d5a4127dd47e98263adf0c
 u
 Ebackend/src/main/java/com/example/demo/config/security/WebConfig.java,d\5\d5b0e49144f16c676322f4fd44ac4e0618c0642d
-Š
-Zbackend/src/main/java/com/example/demo/api/user/repository/UserRefreshTokenRepository.java,3\0\30ebf5d504394f2cbaa6aa1298ddecd723a350b8
 ‚
 Rbackend/src/main/java/com/example/demo/oauth/filter/TokenAuthenticationFilter.java,1\4\14374076779421a35d2dc9b53a3296dc7757390c
 w
@@ -417,8 +403,6 @@ w
 G.idea/sonarlint/issuestore/1/d/1d0acfa8a5c48318ab17d20559e4219f17c2b6aa,e\d\ed51ad977481c60637001c8f347ffeaf21b4ae02
 w
 G.idea/sonarlint/issuestore/f/1/f1faa4258e0e1ef7682ec99dfa274b8ca4191f63,3\d\3d0289b340cf97beeb9297b687ec879a01318c40
-w
-G.idea/sonarlint/issuestore/8/f/8faf550f8affa138419fbab7eaf9b86af96fc644,a\f\af199c728f21e83789e50c6afc726c86453fa870
 w
 G.idea/sonarlint/issuestore/d/8/d8340b6f3d005f322d9cbfe1ec4fdb4e0fac4ffb,6\d\6d291ee6c87d91536ceeae8db30ba8427fd8a182
 w
@@ -481,8 +465,6 @@ w
 G.idea/sonarlint/issuestore/b/8/b8bcbb197fb38d4653a9962da60429cbdc8038f4,3\f\3f783a7a6b9f377f379bbc83bf5b0184e728fddd
 t
 Dbackend/src/main/java/com/example/demo/common/ApiResponseHeader.java,6\d\6dba5fc61eaac194780ca113337873385db2caeb
-|
-Lbackend/src/main/java/com/example/demo/api/user/service/UserServiceImpl.java,7\7\77444e140ebde348a43c12bd8fb100249f051be4
 p
 @backend/src/main/java/com/example/demo/api/user/dto/JoinDto.java,d\2\d26e5e206a2ac76ae1ec9edf02420ce3dee686cb
 {
@@ -491,8 +473,6 @@ Kbackend/src/main/java/com/example/demo/config/properties/AppProperties.java,9\
 Nbackend/src/main/java/com/example/demo/api/user/controller/AuthController.java,b\d\bdec4efdd10580137199da1445bbae6b144a546d
 |
 Lbackend/src/main/java/com/example/demo/config/properties/CorsProperties.java,c\0\c028a81f7af79243ac716998d3e817cad23eeab0
-Š
-Zbackend/src/main/java/com/example/demo/oauth/repository/OAuth2AuthorizationRepository.java,2\3\23e7b1c1d718a8a1e0919a316ad4df9abe292dc5
 ‚
 Rbackend/src/main/java/com/example/demo/oauth/service/CustomUserDetailsService.java,b\f\bf3cfc6cf5768d14acce072b6c996262261d4ed4
 w
@@ -564,8 +544,6 @@ G.idea/sonarlint/issuestore/5/d/5d56e8235390414ed052361c4f98b41454c0aa3c,5\d\5d
 w
 G.idea/sonarlint/issuestore/c/1/c1dedd06afae426279e37eba79cb081cc05be6c0,f\1\f1ac4dab1f80b6c55343574cf0d1547b635c38f9
 w
-G.idea/sonarlint/issuestore/6/3/6383775e8d9c58c1366fd40391bff00bfba82325,a\6\a630ff77b7cb5159412bf9885220d3083f486057
-w
 G.idea/sonarlint/issuestore/f/5/f5792de3f3378a1ae114dc9d4cab368a13960193,7\7\774058e38aa0b64465b9214e8eac4e6fdc1100e0
 w
 G.idea/sonarlint/issuestore/6/d/6dba5fc61eaac194780ca113337873385db2caeb,2\2\229f64f52ea8f0b4ab850f05fa6a7eb3eaddfc43
@@ -619,3 +597,15 @@ D
 frontend/src/main.js,d\1\d1299ed3361f95740f5851dbc9577d6b7158ec49
 P
  frontend/src/components/Card.vue,f\5\f5792de3f3378a1ae114dc9d4cab368a13960193
+~
+Nbackend/src/main/java/com/example/demo/api/user/controller/UserController.java,6\3\6383775e8d9c58c1366fd40391bff00bfba82325
+x
+Hbackend/src/main/java/com/example/demo/api/schedule/entity/Schedule.java,3\3\332175c8310b0dcbbed7f0c6b9b60e1dab969ec0
+K
+frontend/src/pages/Home.vue,e\7\e78ddbc748b15abb700d5d81dfa954483aa97c67
+Š
+Zbackend/src/main/java/com/example/demo/oauth/repository/OAuth2AuthorizationRepository.java,2\3\23e7b1c1d718a8a1e0919a316ad4df9abe292dc5
+Š
+Zbackend/src/main/java/com/example/demo/api/user/repository/UserRefreshTokenRepository.java,3\0\30ebf5d504394f2cbaa6aa1298ddecd723a350b8
+~
+Nbackend/src/main/java/com/example/demo/api/user/repository/UserRepository.java,6\a\6af665d540181e8f47fe91e03a0fafec13938c75
