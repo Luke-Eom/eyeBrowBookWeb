@@ -40,4 +40,15 @@ public class ScheduleServiceImpl implements ScheduleService {
 
     }
 
+    public void updateSchedule(Schedule schedule) {
+        // service 단에서 this.xxx = xxx;
+
+
+    }
+
+    public void deleteSchedule(Schedule schedule) {
+
+    }
+
+
 }

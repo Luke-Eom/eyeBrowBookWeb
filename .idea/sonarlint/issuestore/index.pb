@@ -236,8 +236,6 @@ G.idea/sonarlint/issuestore/8/0/80a4ef8fd2014424c32ae3371f362d2d40b891ba,c\1\c1
 w
 G.idea/sonarlint/issuestore/2/5/2570ba49fa627e7342f9c735872769837dfcc3d0,6\e\6ec4cff505354a1ab9ade7c4e238b7360dc9366d
 w
-G.idea/sonarlint/issuestore/3/5/3543f99cc066c6f08138e6a6e1e803248e8f0e2a,8\d\8daac8e68c49f862623b36623021ad40b4ddd980
-w
 G.idea/sonarlint/issuestore/7/e/7ea65ba0b6e912ff2775e6ac9018c578336b7eba,4\c\4ca01170720755aa00ff7c77a63d2ab2fab01095
 w
 G.idea/sonarlint/issuestore/9/3/93a9c2ae238cd3bd1309a8e551cd50c1460d5a0b,0\b\0b12cf3ba33062cab076f61304bf8fdc920a335d
@@ -354,8 +352,6 @@ G.idea/sonarlint/issuestore/c/8/c81ddc1010a8d49137fc08e934892f4e01573fbb,9\7\97
 w
 G.idea/sonarlint/issuestore/e/3/e30a064827853dd2ab73ae2a0e043cd18a025f63,0\7\077698f687b3ee775f78c3af80eedcb694715bb1
 w
-G.idea/sonarlint/issuestore/c/4/c479ba541ebbbb5c20962382ddc6aae56d8ceaa8,d\8\d8340b6f3d005f322d9cbfe1ec4fdb4e0fac4ffb
-w
 G.idea/sonarlint/issuestore/c/6/c63f33347e9dad24bf37f027aee35e7be149608e,9\4\9410304266fa845b27d5a4127dd47e98263adf0c
 u
 Ebackend/src/main/java/com/example/demo/config/security/WebConfig.java,d\5\d5b0e49144f16c676322f4fd44ac4e0618c0642d
@@ -383,8 +379,6 @@ w
 G.idea/sonarlint/issuestore/0/7/077698f687b3ee775f78c3af80eedcb694715bb1,e\1\e1465c1da873f8bb61048340bb5e6ca631bdd6aa
 w
 G.idea/sonarlint/issuestore/8/7/87e265d6189494394827a656068b3125b9cd3ac5,9\d\9d12e486487f67662a41644a21379329a88eff9a
-w
-G.idea/sonarlint/issuestore/5/1/514f89f7016a4e659ff1a3934bac92cc09959bcc,e\7\e743d0819b6c9718a69404a215c1ff9ee23a81ff
 w
 G.idea/sonarlint/issuestore/2/2/229f64f52ea8f0b4ab850f05fa6a7eb3eaddfc43,b\4\b412178488bad791ace7cc3c78c85ad50eacfb9e
 w
@@ -473,8 +467,6 @@ w
 G.idea/sonarlint/issuestore/9/5/95a3daf6e54a616d7a0951fddde7cf320113e760,7\b\7b1a5979586a5e9ddb9bd14a188da0bb92da9dab
 w
 G.idea/sonarlint/issuestore/d/d/dd3e31fd822ce33d1953844bc5ec08fc3fecea12,6\9\69e70b9eff0023dde811d41107051e14f12a231e
-w
-G.idea/sonarlint/issuestore/d/6/d6361177aabaa39d1f508909098e4f7f86a0427a,e\4\e4f440e3295c1e9685116884b917280d22b27f52
 w
 G.idea/sonarlint/issuestore/2/6/262eeef4c3b48b70baf49d86675b94de63ffed73,1\4\141cd83555c92e877664c6d4337bba5ffa3b209f
 w
