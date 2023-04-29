@@ -19,15 +19,12 @@ public class ScheduleServiceImpl implements ScheduleService {
     public ArrayList<Schedule> getAllSchedules() {
         ArrayList<Schedule> scheduleList = (ArrayList<Schedule>) scheduleRepo.findAll();
 
-        // entity - dto 매핑
-
         return scheduleList;
     }
 
     public Schedule getScheduleByUsername(String username) {
         Schedule schedule = scheduleRepo.findByUsername(username);
 
-        // entity - dto 매핑
 
         return schedule;
 
