@@ -27,6 +27,8 @@ public class Schedule {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long scheduleSeq;
 
+
+    // join with MyUser (id - getUsername)
     @Column(name = "USER")
     @NotNull
     private MyUser username;
@@ -67,7 +69,7 @@ public class Schedule {
     }
 
     public ScheduleDto toDto() {
-        return new Schedule(username, time, category, memo);
+        return new ScheduleDto(username, time, category, memo, createdAt, modifiedAt);
     }
 
 }

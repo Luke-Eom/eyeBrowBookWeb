@@ -1,8 +1,0 @@
-
-†
-java:S4165S"kRemove this useless assignment; "profileImgUrl" already holds the assigned value along all execution paths.(ëõ¶Ýþÿÿÿÿ
-^
-java:S2583S"CChange this condition so that it does not always evaluate to "true"(ëõ¶Ýþÿÿÿÿ
-Y
-java:S2583P"CChange this condition so that it does not always evaluate to "true"(Ð¤¢à
-[	java:S107F"AConstructor has 8 parameters, which is greater than 7 authorized.(åðÞ³úÿÿÿÿ

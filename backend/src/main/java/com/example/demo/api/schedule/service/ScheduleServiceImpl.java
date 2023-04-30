@@ -1,5 +1,6 @@
 package com.example.demo.api.schedule.service;
 
+import com.example.demo.api.schedule.dto.ScheduleDto;
 import com.example.demo.api.schedule.entity.Schedule;
 import com.example.demo.api.schedule.repository.ScheduleRepository;
 import lombok.RequiredArgsConstructor;
@@ -16,10 +17,16 @@ public class ScheduleServiceImpl implements ScheduleService {
     // 전체 조회,아이디별 조회/ 스케쥴 생성 / 스케쥴 수정 / 스케쥴 삭제
 
     // 전체 스케쥴 조회
-    public ArrayList<Schedule> getAllSchedules() {
+    public ArrayList<ScheduleDto> getAllSchedules() {
+        ArrayList<ScheduleDto> scheduleDtoList = new ArrayList<>();
         ArrayList<Schedule> scheduleList = (ArrayList<Schedule>) scheduleRepo.findAll();
+//
+//        for() {
+//
+//        }
 
-        return scheduleList;
+
+        return scheduleDtoList;
     }
 
     public Schedule getScheduleByUsername(String username) {
