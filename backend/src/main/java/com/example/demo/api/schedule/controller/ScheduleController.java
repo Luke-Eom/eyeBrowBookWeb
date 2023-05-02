@@ -18,7 +18,9 @@ public class ScheduleController {
     // ApiResponse로 받아오기
     public ApiResponse<ArrayList<ScheduleDto>> getAllSchedules() {
 
-        ArrayList<ScheduleDto> scheduleList = scheduleService.
+        ArrayList<ScheduleDto> scheduleList = scheduleService.getAllSchedules();
+
+        return ApiResponse.success("scheduleList",scheduleList);
 
     }
 

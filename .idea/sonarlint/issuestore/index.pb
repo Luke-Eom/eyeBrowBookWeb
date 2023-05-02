@@ -136,8 +136,6 @@ G.idea/sonarlint/issuestore/4/e/4e325583e111b93c23a505fae2d71bf9f20a645d,0\e\0e
 w
 G.idea/sonarlint/issuestore/4/1/416a7752fc6ce197a4009e3517e830d2de389143,9\3\93f8ba0be87528ec912d1a6c3169381a21633994
 w
-G.idea/sonarlint/issuestore/6/a/6af665d540181e8f47fe91e03a0fafec13938c75,c\7\c743c624119e0c889e5fa8ddbbb61c3fefcfdb74
-w
 G.idea/sonarlint/issuestore/0/b/0bcfecf0c5c3d049342a641012071be22461aa0f,0\d\0da520c508504901df397be7e8c764df02bd65ba
 w
 G.idea/sonarlint/issuestore/0/e/0e304d0d9be0af0690ea5406be3c47312585307b,a\a\aa9950fd9343f1d8cad1feaa92841614051c3dd0
@@ -344,8 +342,6 @@ G.idea/sonarlint/issuestore/8/1/814d473f1a42efc7a8739e3de87ac035bdb23bd5,1\d\1d
 w
 G.idea/sonarlint/issuestore/6/d/6d38a0c83746321f7af30167d6035a0ecd8b7753,2\1\219578bcc32f212ccfac51e4afde8a821fd02e25
 w
-G.idea/sonarlint/issuestore/c/8/c81ddc1010a8d49137fc08e934892f4e01573fbb,9\7\9761769c14d01bfab5d01798b81b1b6726a2cd99
-w
 G.idea/sonarlint/issuestore/e/3/e30a064827853dd2ab73ae2a0e043cd18a025f63,0\7\077698f687b3ee775f78c3af80eedcb694715bb1
 w
 G.idea/sonarlint/issuestore/c/6/c63f33347e9dad24bf37f027aee35e7be149608e,9\4\9410304266fa845b27d5a4127dd47e98263adf0c
@@ -388,8 +384,6 @@ G.idea/sonarlint/issuestore/1/d/1d0acfa8a5c48318ab17d20559e4219f17c2b6aa,e\d\ed
 w
 G.idea/sonarlint/issuestore/f/1/f1faa4258e0e1ef7682ec99dfa274b8ca4191f63,3\d\3d0289b340cf97beeb9297b687ec879a01318c40
 w
-G.idea/sonarlint/issuestore/9/7/9761769c14d01bfab5d01798b81b1b6726a2cd99,d\6\d6303f381450369ebe081d726b86663f072e305c
-w
 G.idea/sonarlint/issuestore/7/8/78150023d89b6b522871b4e33bbc5004941930f3,7\f\7f29b548e0944232d1fc7f5aafe6fee9991cf543
 u
 Ebackend/src/main/java/com/example/demo/config/security/JwtConfig.java,a\f\af3dfbc0196f73572e8e67bf55568930d2c18d12
@@ -419,8 +413,6 @@ w
 G.idea/sonarlint/issuestore/3/d/3d0289b340cf97beeb9297b687ec879a01318c40,9\5\95a3daf6e54a616d7a0951fddde7cf320113e760
 w
 G.idea/sonarlint/issuestore/1/4/14374076779421a35d2dc9b53a3296dc7757390c,d\d\dd3e31fd822ce33d1953844bc5ec08fc3fecea12
-w
-G.idea/sonarlint/issuestore/3/0/30ebf5d504394f2cbaa6aa1298ddecd723a350b8,2\0\202a24a9ed33de2a409ddf02879dc8f7ea3aa20e
 w
 G.idea/sonarlint/issuestore/7/a/7a1c7d4029e543626f91c7fd4b0a50451d6d5a47,7\b\7b9f3022c79a0fca5ba0e3eea5052fb2ba28dce7
 w
@@ -462,8 +454,6 @@ G.idea/sonarlint/issuestore/2/6/262eeef4c3b48b70baf49d86675b94de63ffed73,1\4\14
 w
 G.idea/sonarlint/issuestore/1/0/103ddef77a352ee7f59100631bf14f0f114fcaf2,2\e\2e542b0c77ad0e6f48d9c17d7abdc9c1f9da4e56
 w
-G.idea/sonarlint/issuestore/a/d/ad789dcf906bda12a90a8c7637061741145207bf,4\9\495597f73da4d844a1fee6e5402baddbaa7729f4
-w
 G.idea/sonarlint/issuestore/3/5/35621d90b57a5814f16ddfeb8f56eb8bed458b1e,3\b\3b90dbb6fcc4d09788e6a9c50f567f31fa8a6a52
 w
 G.idea/sonarlint/issuestore/a/f/af5ae17e9a8c5cb1746c3b2550b3cb4c34c2308e,3\0\30a5d77601f7d7da435a418a9fd6af41dbd3eabd
@@ -501,8 +491,6 @@ w
 G.idea/sonarlint/issuestore/c/9/c977b052094f93101eca2b0696ec2fd10766ec9e,f\4\f4b52fe02395ac77cd86c7a619ce1223ee8116b6
 w
 G.idea/sonarlint/issuestore/3/7/37a1566886554676193e44dc78b3c4dde4cb9bd7,7\8\78f2dcd40137c30259e13a3c1b366203350ede96
-w
-G.idea/sonarlint/issuestore/1/c/1c365cbba8f880a15c4dedd176a7e2dbde66e5ea,f\e\fe5678afe52af747c1e70a03e8b529781f15a115
 w
 G.idea/sonarlint/issuestore/3/0/30a5d77601f7d7da435a418a9fd6af41dbd3eabd,9\6\96fc35c21dfbb3489735a2fc4fce9e71fcab8719
 w
@@ -550,8 +538,6 @@ G.idea/sonarlint/issuestore/6/a/6af537caa5ef3cc11af8878db92bb9fec3f80613,6\c\6c
 w
 G.idea/sonarlint/issuestore/2/1/219fc869d8ae37c1cea3cdab9914188b61ce1bd7,2\6\265971fee0933b82f01a3e913b9e74adc9dec625
 w
-G.idea/sonarlint/issuestore/4/9/495597f73da4d844a1fee6e5402baddbaa7729f4,2\8\281f449d8b4fd1ad810255d3a5eb40c401f96b3b
-w
 G.idea/sonarlint/issuestore/1/5/1520cf6ed0475a974eb0a6e1eb4dce56df1b4449,1\6\16e16f0a0f6eb56f01ebe7fd412048b265e73e01
 w
 G.idea/sonarlint/issuestore/1/4/141cd83555c92e877664c6d4337bba5ffa3b209f,1\b\1b57709029f36cdd720170358c5bf43d42649855
@@ -567,3 +553,17 @@ K
 frontend/src/pages/Home.vue,e\7\e78ddbc748b15abb700d5d81dfa954483aa97c67
 Š
 Zbackend/src/main/java/com/example/demo/oauth/repository/OAuth2AuthorizationRepository.java,2\3\23e7b1c1d718a8a1e0919a316ad4df9abe292dc5
+l
+<backend/src/main/java/com/example/demo/utils/CookieUtil.java,3\b\3b41cf64f919d7f925c7ca04cff4d299ce81d388
+l
+<backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab
+€
+Pbackend/src/main/java/com/example/demo/oauth/service/MyUserArgumentResolver.java,d\2\d2531cb50d6631ff9b25c66de0f06a3f6a4838c8
+
+Qbackend/src/main/java/com/example/demo/oauth/service/CustomOAuth2UserService.java,b\b\bb84fa4c46a45b5a9be4331060f12999f736cdf1
+Š
+Zbackend/src/main/java/com/example/demo/api/user/repository/UserRefreshTokenRepository.java,3\0\30ebf5d504394f2cbaa6aa1298ddecd723a350b8
+~
+Nbackend/src/main/java/com/example/demo/api/user/repository/UserRepository.java,6\a\6af665d540181e8f47fe91e03a0fafec13938c75
+x
+Hbackend/src/main/java/com/example/demo/api/user/service/UserService.java,f\e\fea4e48c03072f5aa401d211dc168356def59914
