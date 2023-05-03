@@ -418,8 +418,6 @@ G.idea/sonarlint/issuestore/7/a/7a1c7d4029e543626f91c7fd4b0a50451d6d5a47,7\b\7b
 w
 G.idea/sonarlint/issuestore/f/3/f320d9f502eb5ffe84baaf6d4733b8c2f62e0b7e,2\6\262eeef4c3b48b70baf49d86675b94de63ffed73
 w
-G.idea/sonarlint/issuestore/d/6/d6303f381450369ebe081d726b86663f072e305c,4\0\4096871edc65d3d61259eb1b56018d7422a9f0f4
-w
 G.idea/sonarlint/issuestore/9/d/9d12e486487f67662a41644a21379329a88eff9a,3\4\34cdb057931dbe4a56dbc0576195c74b1bd1b8ba
 w
 G.idea/sonarlint/issuestore/a/f/af3dfbc0196f73572e8e67bf55568930d2c18d12,4\4\44966cb041fe25b76b05400a03d78e2490605e77
@@ -567,3 +565,17 @@ Zbackend/src/main/java/com/example/demo/api/user/repository/UserRefreshTokenRepo
 Nbackend/src/main/java/com/example/demo/api/user/repository/UserRepository.java,6\a\6af665d540181e8f47fe91e03a0fafec13938c75
 x
 Hbackend/src/main/java/com/example/demo/api/user/service/UserService.java,f\e\fea4e48c03072f5aa401d211dc168356def59914
+r
+Bbackend/src/main/java/com/example/demo/api/user/entity/MyUser.java,8\d\8d091c93b45539207745db3d580002c49f39e528
+x
+Hbackend/src/main/java/com/example/demo/api/schedule/entity/Schedule.java,3\3\332175c8310b0dcbbed7f0c6b9b60e1dab969ec0
+w
+G.idea/sonarlint/issuestore/f/e/fea4e48c03072f5aa401d211dc168356def59914,5\1\514f89f7016a4e659ff1a3934bac92cc09959bcc
+w
+G.idea/sonarlint/issuestore/3/0/30ebf5d504394f2cbaa6aa1298ddecd723a350b8,2\0\202a24a9ed33de2a409ddf02879dc8f7ea3aa20e
+w
+G.idea/sonarlint/issuestore/d/2/d2531cb50d6631ff9b25c66de0f06a3f6a4838c8,5\5\5551fab508b408bb65c646bcb816ea9632b25b8d
+w
+G.idea/sonarlint/issuestore/6/a/6af665d540181e8f47fe91e03a0fafec13938c75,c\7\c743c624119e0c889e5fa8ddbbb61c3fefcfdb74
+w
+G.idea/sonarlint/issuestore/b/b/bb84fa4c46a45b5a9be4331060f12999f736cdf1,c\7\c7a7d09a61392b64eaf2ff3e0be24fc61c59af2b
