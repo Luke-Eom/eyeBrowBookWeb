@@ -35,6 +35,10 @@ public class ScheduleController {
         return "예약 요청이 완료되었습니다.";
     }
 
+    public String requestScheduleCancel() {
+
+        return "예약 취소 요청이 완료되었습니다.";
+    }
 
 
 }
