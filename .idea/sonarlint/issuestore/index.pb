@@ -506,8 +506,6 @@ G.idea/sonarlint/issuestore/6/d/6dba5fc61eaac194780ca113337873385db2caeb,2\2\22
 w
 G.idea/sonarlint/issuestore/9/f/9f182b39f118fe31e525ad837eb0563322dc36e5,2\5\2514805e0168d40a2ab9ad065fb6a87c5fd9fad8
 w
-G.idea/sonarlint/issuestore/b/a/bab25df616d3578c8b6bb23e8e687e2c6b48c6f6,d\2\d2b40e60087882f19b7c8686721d875ad0ca2f1c
-w
 G.idea/sonarlint/issuestore/d/2/d26e5e206a2ac76ae1ec9edf02420ce3dee686cb,8\f\8fb8260752fc22b299becb4ad175be9bc5b74b82
 w
 G.idea/sonarlint/issuestore/7/b/7b1a5979586a5e9ddb9bd14a188da0bb92da9dab,b\f\bf0d331a1c598d59cbd86309c8302206ceaf5d73
@@ -551,8 +549,6 @@ K
 Zbackend/src/main/java/com/example/demo/oauth/repository/OAuth2AuthorizationRepository.java,2\3\23e7b1c1d718a8a1e0919a316ad4df9abe292dc5
 l
 <backend/src/main/java/com/example/demo/utils/CookieUtil.java,3\b\3b41cf64f919d7f925c7ca04cff4d299ce81d388
-l
-<backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab
 €
 Pbackend/src/main/java/com/example/demo/oauth/service/MyUserArgumentResolver.java,d\2\d2531cb50d6631ff9b25c66de0f06a3f6a4838c8
 
@@ -585,3 +581,11 @@ w
 G.idea/sonarlint/issuestore/c/7/c7a7d09a61392b64eaf2ff3e0be24fc61c59af2b,7\d\7de3ccaf48dfde156b337de24016752aea5ea504
 w
 G.idea/sonarlint/issuestore/5/1/514f89f7016a4e659ff1a3934bac92cc09959bcc,e\7\e743d0819b6c9718a69404a215c1ff9ee23a81ff
+w
+G.idea/sonarlint/issuestore/7/d/7de3ccaf48dfde156b337de24016752aea5ea504,9\a\9a80cc9610caf14481c96ccd816905077bcd4dcc
+w
+G.idea/sonarlint/issuestore/7/a/7a11b5815ae5ffc2599364d8b14bcdff7ed8a127,0\b\0bd7bb8077071c2d5661a19911c6e6420bfa322f
+w
+G.idea/sonarlint/issuestore/8/f/8faf550f8affa138419fbab7eaf9b86af96fc644,a\f\af199c728f21e83789e50c6afc726c86453fa870
+w
+G.idea/sonarlint/issuestore/e/7/e743d0819b6c9718a69404a215c1ff9ee23a81ff,8\b\8ba82cb050105aa78e07f5898dce1573b5612d1d

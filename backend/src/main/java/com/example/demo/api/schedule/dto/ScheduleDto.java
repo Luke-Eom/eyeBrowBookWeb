@@ -12,6 +12,8 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @NoArgsConstructor
 public class ScheduleDto {
+
+    // OAuth2 토큰으로 받아올때 username그대로 받는지 확인
     private String username;
 
     // 연도 - 날짜 형식 확인 및 히스토리 관리 확인
