@@ -435,8 +435,6 @@ p
 @backend/src/main/java/com/example/demo/api/user/dto/JoinDto.java,d\2\d26e5e206a2ac76ae1ec9edf02420ce3dee686cb
 {
 Kbackend/src/main/java/com/example/demo/config/properties/AppProperties.java,9\d\9d8c00fa5e8c2cc7c1321db9c1aa730fc2370961
-~
-Nbackend/src/main/java/com/example/demo/api/user/controller/AuthController.java,b\d\bdec4efdd10580137199da1445bbae6b144a546d
 |
 Lbackend/src/main/java/com/example/demo/config/properties/CorsProperties.java,c\0\c028a81f7af79243ac716998d3e817cad23eeab0
 ‚
@@ -589,3 +587,5 @@ w
 G.idea/sonarlint/issuestore/8/f/8faf550f8affa138419fbab7eaf9b86af96fc644,a\f\af199c728f21e83789e50c6afc726c86453fa870
 w
 G.idea/sonarlint/issuestore/e/7/e743d0819b6c9718a69404a215c1ff9ee23a81ff,8\b\8ba82cb050105aa78e07f5898dce1573b5612d1d
+l
+<backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab

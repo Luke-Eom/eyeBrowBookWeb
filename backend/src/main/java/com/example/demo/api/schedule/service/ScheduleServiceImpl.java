@@ -30,10 +30,9 @@ public class ScheduleServiceImpl implements ScheduleService {
     }
 
     public Schedule getScheduleByUsername(String username) {
-        Schedule schedule = scheduleRepo.findByUsername(username);
+        // contextHolder에서 .getContext().getAuthentication.getName();
 
-
-        return schedule;
+        return scheduleRepo.findByUsername(username);
 
     }
 
