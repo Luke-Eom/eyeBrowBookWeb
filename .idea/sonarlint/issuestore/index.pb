@@ -589,3 +589,5 @@ w
 G.idea/sonarlint/issuestore/e/7/e743d0819b6c9718a69404a215c1ff9ee23a81ff,8\b\8ba82cb050105aa78e07f5898dce1573b5612d1d
 l
 <backend/src/main/java/com/example/demo/utils/HeaderUtil.java,7\4\74bad635ffc7a504a80b64ff94074ef0cd228bab
+x
+Hbackend/src/main/java/com/example/demo/api/schedule/dto/ScheduleDto.java,3\8\38769c9076882120bb4284d3ee72329ed6304aa9

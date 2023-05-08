@@ -27,7 +27,7 @@ public class ScheduleController {
 
     }
 
-    @PostMapping("/")
+    @PostMapping("/scheduleRequest")
     public String requestScheduleCreation() {
 
 
@@ -35,6 +35,7 @@ public class ScheduleController {
         return "예약 요청이 완료되었습니다.";
     }
 
+    @PostMapping("/cancelRequest")
     public String requestScheduleCancel() {
 
         return "예약 취소 요청이 완료되었습니다.";
